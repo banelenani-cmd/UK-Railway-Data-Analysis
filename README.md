@@ -38,7 +38,7 @@ The SQL script is available in the [`sql` folder](sql/).
 
 ## Dashboard 1: Railway Revenue & Ticket Sales
 
-![Railway Revenue Dashboard](dashboards/Railway_Revenue_Dashboard.png)
+![Railway Revenue Dashboard](dashboards/Railway_Revenue_Dashboard.png.png)
 
 ### Key Findings
 
